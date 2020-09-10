@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" viewBox="0 0 140 140" width="140" height="140">
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" style="stop-color:#73B0B0;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#3B9F9D;stop-opacity:1" />
+        </linearGradient>
+      </defs>
+<g transform="matrix(5.833333333333333,0,0,5.833333333333333,0,0)" fill="url(#gradient)">
+    <path d="M21.373,10.56c-4,7-10.206,10.931-15.206,10.931" fill="none" stroke="url(#gradient)" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M23.261,11.5a2.362,2.362,0,0,0-1.888-.94l-.024,0a3.946,3.946,0,0,0-4.394-.9,17.387,17.387,0,0,0-2.72,1.3C12.239,5.5,8.739,2,.739,2a30.558,30.558,0,0,0,4.5,7c1.627,1.9,6,4.191,6,4.191a35.842,35.842,0,0,0-2.506,2.872c-.072.1-.149.2-.219.309-.158.235-.3.477-.451.72-.111.185-.22.371-.325.56-.066.12-.143.234-.207.355l.014.011A17.323,17.323,0,0,0,5.739,23.5" fill="none" stroke="url(#gradient)" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M15.239,7.5c-.5-5.5,3.5-7,3.5-7,1.5,2.5,1.111,7.4-.889,8.9" fill="none" stroke="url(#gradient)" stroke-linecap="round" stroke-linejoin="round"></path>
+</g>
+</svg>
